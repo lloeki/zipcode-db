@@ -1,0 +1,14 @@
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/FileName:
+  Exclude: [lib/zipcode-db.rb]
+
+Style/Semicolon:
+  AllowAsExpressionSeparator: true
+
+Style/TrailingComma:
+  EnforcedStyleForMultiline: comma
