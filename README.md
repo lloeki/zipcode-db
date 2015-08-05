@@ -2,6 +2,8 @@
 
 Unified interface to query international zip/postal codes
 
+[![Build Status](https://travis-ci.org/lloeki/zipcode-db.svg?branch=master)](https://travis-ci.org/lloeki/zipcode-db)
+
 ## Usage
 
 ```ruby
